@@ -1,0 +1,1 @@
+My teacher told me to convert numbers into different number systems (Binary and Hexadecimal), so I coded a program to make my life easier. I was also running out of ideas, so I decided to use this as a coding project.
